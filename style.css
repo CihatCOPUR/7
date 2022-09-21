@@ -1,0 +1,63 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+header{
+    color: black;
+}
+.main {
+    
+    width: 75%;
+    height: 25rem;
+    margin: auto;
+    margin-top: 10rem;
+    
+}
+.google{
+    padding: auto;
+    margin-top: 4rem;
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 600;
+   
+}
+
+h2{
+    
+    border-radius: 15px;
+    width: 50%;
+    height: 2rem;
+ margin: auto;
+ border: 2px solid hsl(240, 100%, 50%,0.5);
+}
+.ara{
+   margin-left:0.5rem;
+   margin-top: -0.5rem;
+   cursor: pointer;
+}
+.speak{
+    margin-right:0.5rem;
+    margin-top: -0.5rem;
+    cursor: pointer;
+}
+button{
+    width: 5rem;
+    font-size: 0.5rem;
+    height: 1rem;
+    border: 2px solid rgb(112, 106, 106);
+    border-radius: 3px;
+    background-color: rgb(237, 224, 224);
+   
+}
+.btn{
+margin-left: 41.8%;
+}
+p{
+    text-align: center;
+    
+    
+}
+.english{
+    color: blue;
+    cursor: pointer;
+}
